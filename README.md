@@ -40,6 +40,8 @@
 - [gepa-ai/gepa](https://github.com/gepa-ai/gepa) ![GitHub stars](https://img.shields.io/github/stars/gepa-ai/gepa?style=social) - **GEPA (Genetic-Pareto)** — ICLR 2026 Oral. Reflective prompt evolution that outperforms RL (GRPO) on benchmarks. Optimizes any textual parameters against any metric using natural language reflection.
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) ![GitHub stars](https://img.shields.io/github/stars/HKUDS/ClawTeam?style=social) - Agent swarm intelligence for autoresearch — spawns parallel GPU research directions, distributes work across agents, aggregates results.
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) ![GitHub stars](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=social) - Comprehensive skill library including autoresearch orchestration with two-loop architecture (inner optimization + outer synthesis).
+- [WecoAI/aideml](https://github.com/WecoAI/aideml) ![GitHub stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social) - **AIDE**: Tree-search ML engineering agent that autonomously improves model performance via iterative code generation and evaluation.
+- [weco.ai](https://weco.ai) - **Weco**: Cloud platform for AIDE with observability, experiment tracking, and managed runs — brings the autoresearch loop into production.
 
 ## 🔬 Research-agent systems
 
